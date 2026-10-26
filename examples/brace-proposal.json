@@ -1,0 +1,8 @@
+{
+  "reason": "Beacon activates Harbor Brace: original demo-only custom power; 2 energy and 1 action agreed before use, no check needed.",
+  "citations": ["Original fictional house ruling, not an official Strange Heroes talent"],
+  "effects": [
+    {"path": ["characters", "beacon", "energy"], "op": "delta", "value": -2},
+    {"path": ["characters", "beacon", "actions"], "op": "delta", "value": -1}
+  ]
+}

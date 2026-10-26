@@ -1,0 +1,16 @@
+# All real reference books and campaign data stay private/local.
+private/
+references/
+campaigns/
+*.pdf
+*.index.json
+*.save.json
+*.bak
+*.lock
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+.env

@@ -1,0 +1,20 @@
+Strange Forge 0.1.0
+Original implementation copyright (c) 2026 Jet Black RLSH.
+
+Inspirations (no source code copied):
+- Strange Heroes Playtest v1.02, Tate RF / Tate Renforth / Monken8.
+  https://monken8.itch.io/strange-heroes-playtest
+  No license for redistribution of rule prose or artwork is asserted.
+- QuestForge v1.3.0, Adrián Melic, MIT licensed.
+  https://github.com/adrianmelic/codex-questforge
+  Its skill-led approach inspired this smaller, independent project.
+
+No QuestForge D&D primer or other CC BY materials are bundled.
+
+Creator's public statement (10 July 2024, 9:27 PM):
+"Strange Heroes is completely open source."
+Tate RF, interview with The Hardboiled GMshoe's Office:
+https://gmshoe.wordpress.com/2024/07/10/qa-tate-renforth-strange-heroes/
+This affirmative statement is acknowledged; it does not identify a named
+license or establish artwork terms. Original mechanics summaries are included;
+the rulebook/artwork/full talent prose are not mirrored. See docs/rights-and-provenance.md.

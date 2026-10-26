@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strange-forge"
+version = "0.1.0"
+description = "Lean, source-grounded conversational AI-GM tools"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Jet Black RLSH"}]
+dependencies = []
+
+[project.scripts]
+strange-forge = "strange_forge.__main__:main"
+
+[tool.setuptools]
+packages = ["strange_forge"]
