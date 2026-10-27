@@ -12,6 +12,10 @@ Version 0.1.0 is a small **adjudication framework**, not a complete game engine.
 
 Read the [Strange Heroes lore guide](docs/lore-guide.md) for the four playable pregenerated heroes, named NPCs and factions, and both official adventures’ setting hooks. **Adventure spoilers included.** The guide distinguishes published playtest facts, creator-announced plans, and your table’s original continuity.
 
+### Full lore-card deck
+
+[Download the complete Strange Heroes Lore Cards PDF](docs/Strange-Heroes-Lore-Cards.pdf) — **27 characters, 54 alternating front/back pages**, oversized **5×7-inch** digital reading proof. Includes original AI-generated portraits, source-grounded lore, published stat fields and power-name/rank lists; unpublished statistics are explicitly marked rather than invented. Unofficial companion, not official artwork or a replacement rulebook. This is not a duplex-ready commercial print layout. See [deck sources, interpretation notes and verification](docs/lore-cards-provenance.md).
+
 ## What works
 
 - A bundled original core/combat mechanics quick-reference, plus local search of **your own** Strange Heroes PDF for full combat/power entries, with page citations and a source fingerprint.

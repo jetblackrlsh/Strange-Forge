@@ -3,6 +3,8 @@ private/
 references/
 campaigns/
 *.pdf
+# Explicitly published original generated companion deck, not a source rulebook.
+!docs/Strange-Heroes-Lore-Cards.pdf
 *.index.json
 *.save.json
 *.bak
