@@ -1,8 +1,16 @@
 # Strange Forge
 
+![Strange Forge — Micro-Man, Thor, Captain Midnight and Red Orchid](assets/strange-forge-cover.png)
+
+*Original AI-generated interpretation of Strange Heroes’ pregenerated heroes; [character sources and image provenance](docs/cover-provenance.md). Not official artwork.*
+
 **An unofficial, lean conversational AI-GM toolkit inspired by Strange Heroes and QuestForge.**
 
 Version 0.1.0 is a small **adjudication framework**, not a complete game engine. Your host LLM acts as GM; Python supplies trustworthy local bookkeeping, dice receipts, and searchable source pages. No model API account, subscription, or bundled provider backend is supplied or required by this code. Your chosen host may have its own costs.
+
+## Lore and heroes
+
+Read the [Strange Heroes lore guide](docs/lore-guide.md) for the four playable pregenerated heroes, named NPCs and factions, and both official adventures’ setting hooks. **Adventure spoilers included.** The guide distinguishes published playtest facts, creator-announced plans, and your table’s original continuity.
 
 ## What works
 
